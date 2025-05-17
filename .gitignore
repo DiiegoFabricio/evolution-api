@@ -1,12 +1,1 @@
-# Node
 node_modules/
-npm-debug.log
-
-# Credenciais e configs locais
-.env
-.env.local
-.secret.json
-
-# Mac/Linux/Windows
-.DS_Store
-Thumbs.db
