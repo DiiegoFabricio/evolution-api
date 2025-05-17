@@ -1,12 +1,12 @@
 {
   "name": "evolution-api",
   "version": "1.0.0",
-  "description": "API de envio de mensagens WhatsApp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "@open-wa/wa-automate": "^4.35.1",
     "express": "^4.18.2",
     "body-parser": "^1.20.2"
   }
