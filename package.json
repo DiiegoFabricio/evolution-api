@@ -1,6 +1,7 @@
 {
   "name": "evolution-api",
-  "version": "v1.8.2",
+  "version": "1.8.2",
+  "description": "API de envio de mensagens WhatsApp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
